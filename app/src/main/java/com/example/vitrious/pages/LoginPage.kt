@@ -54,7 +54,7 @@ fun LoginPage(
 
     }
 
-
+//design
     Column(
         modifier = modifier.fillMaxSize(),
         verticalArrangement = Arrangement.Center,
